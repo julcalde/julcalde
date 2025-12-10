@@ -1,4 +1,6 @@
-<img src="https://www.42heilbronn.de/files/icons/logo.svg" alt="42 Heilbronn" height="100" align="right"/>
+<p align="right">
+  <img src="https://www.42heilbronn.de/files/icons/logo.svg" alt="42 Heilbronn" height="105"/>
+</p>
 
 # Hey there, I'm Julio 👋  
 **Software Engineering Student @ 42 Heilbronn**
@@ -50,7 +52,22 @@ If you're a **Cloud Engineer**, **SRE**, or **DevOps** wizard and want to share 
 Core in progress → next: CPP 06–09, Inception, ft_irc, etc.
 
 ---
+### Badges & Certifications 🏅
 
+<a href="https://www.42heilbronn.de/files/icons/logo.svg" target="_blank">
+  <img src="https://img.shields.io/badge/42%20Heilbronn-Discovery%20Piscine%20Web%20Programming%20Essentials-7B42BC?style=for-the-badge&logo=42&logoColor=white" alt="42 Discovery Piscine Web"/>
+</a>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-25h-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-15h-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-15h-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Shell-25h-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/>
+</p>
+
+> Completed September 2025 · 5-day intensive · Full projects & group work done
+
+---
 ### Currently Independently Learning & Exploring ☁️🔥
 
 <div align="left">
@@ -80,7 +97,6 @@ Core in progress → next: CPP 06–09, Inception, ft_irc, etc.
 </div>
 
 ---
-
 ### 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-max-calderone-da-silva-5878b8271)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julio.calderonedasilva@gmail.com)
