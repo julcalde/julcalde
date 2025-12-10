@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/42School/42header/master/42_logo_black.png" alt="42 Heilbronn" width="200" align="right"/>
+<img src="https://www.42heilbronn.de/files/icons/logo.svg" alt="42 Heilbronn" height="100" align="right"/>
 
 # Hey there, I'm Julio 👋  
 **Software Engineering Student @ 42 Heilbronn**
