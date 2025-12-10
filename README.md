@@ -103,7 +103,3 @@ Core in progress → next: CPP 06–09, Inception, ft_irc, etc.
 
 Open to mentorship, pair-programming, or just a good tech chat.  
 Heilbronn-based but happy to meet online as well!
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=00babc&style=flat-square&label=Profile+views" alt="profile views"/>
-</p>
