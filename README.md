@@ -22,9 +22,9 @@ If you're a **Cloud Engineer**, **SRE**, or **DevOps** wizard and want to share 
 
 | Skill                                      | Proficiency                  | Badge |
 |--------------------------------------------|------------------------------|-------|
-| C • Memory Management • Data Structures    | Advanced                     | ![C](https://img.shields.io/badge/C-Expert-00599C?style=flat-square&logo=c&logoColor=white) |
+| C • Memory Management • Data Structures    | Advanced                     | ![C](https://img.shields.io/badge/C-Advanced-00599C?style=flat-square&logo=c&logoColor=white) |
 | C++ • OOP • Polymorphism • STL             | Advanced                     | ![C++](https://img.shields.io/badge/C%2B%2B-Advanced-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| Unix • Processes • Signals • System Calls  | Advanced                     | ![Unix](https://img.shields.io/badge/Unix-Expert-000000?style=flat-square&logo=linux&logoColor=white) |
+| Unix • Processes • Signals • System Calls  | Advanced                     | ![Unix](https://img.shields.io/badge/Unix-Advanced-000000?style=flat-square&logo=linux&logoColor=white) |
 | Networking • Subnetting • IP Routing       | 100% (NetPractice)           | ![Network](https://img.shields.io/badge/Network-100%25-4CAF50?style=flat-square) |
 | Concurrency • Threads • Mutexes            | 100% (Philosophers)          | ![Threads](https://img.shields.io/badge/Threads-100%25-FF9800?style=flat-square) |
 | Shell • Pipes • Redirections • Built-ins   | 100% (minishell)             | ![Shell](https://img.shields.io/badge/minishell-100%25-8BC34A?style=flat-square) |
